@@ -1,0 +1,3 @@
+Utilized the well done work of 
+	https://github.com/ayronherman/recon
+in order to manage nmap scans and launch further protocol-specific enums. I made a slight modification in order to export to XML format (-oX 'results/%s/heavy_tcp.xml), so I can further import and view the data in MagicTree.
